@@ -4,11 +4,4 @@ Like
 I 
 Said
 
-Changing stuff
-
-Off-topic-kinda-related stuff
-somewhat-related
-somewhat related
-
-direct change to the main branch
-
+Major changes made.
