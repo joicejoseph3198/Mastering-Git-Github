@@ -26,10 +26,10 @@ git status - to get a status of all the files that've been modified
 
 git push <repository> <branch> 
 
-# <repository> </br>
+<repository> </br>
  The "remote" repository that is destination of a push operation. This parameter can be either a URL (see the section GIT URLS below) or the name of a remote
   
-# <branch> </br>
+<branch> </br>
 if your Local branch and remote branch is the same name then you can just do it: </br>
 git push origin branchName
 
